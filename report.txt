@@ -1,0 +1,5 @@
+Results obtained from comparison with Numpy and pandas
+
+* Both the results from using Numpy and sklearn did not have considerable difference between them.
+
+Conculsion: Sklearn is much better than using Numpy cause of the ease of code and built in functions. It requires less labour.
